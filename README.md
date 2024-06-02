@@ -8,3 +8,7 @@ after adding the items enter 0(to complete the adding items into the cart)
 It asks for three payment methods 
 select any of them
 the payment will be successful and you'll be adding the items into the cart
+
+GitHub link:
+https://github.com/syedsaquib00/SE-450-Final-Project.git
+
